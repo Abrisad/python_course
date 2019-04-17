@@ -34,8 +34,9 @@ jobs:
             . venv/bin/activate
             pip install -r requirements.txt
 
-      - name: run python file
-        command: python fibonacci.py
+      - run:
+          name: run python file
+          command: python fibonacci.py
 
       - save_cache:
           paths:
