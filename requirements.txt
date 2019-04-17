@@ -1,0 +1,14 @@
+atomicwrites==1.2.1
+attrs==18.2.0
+behave==1.2.6
+certifi==2018.11.29
+more-itertools==4.3.0
+parse==1.11.1
+parse-type==0.4.2
+pipenv==2018.11.26
+pluggy==0.8.0
+py==1.7.0
+pytest==4.0.1
+six==1.11.0
+virtualenv==16.1.0
+virtualenv-clone==0.4.0
